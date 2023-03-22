@@ -39,3 +39,19 @@
     text-decoration: line-through;
 
 }
+
+.nav{
+    background-color: orange;
+    color: white;
+    overflow: hidden;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    height: 30px;
+    background-color: orange;
+}
+
